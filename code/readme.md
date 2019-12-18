@@ -1,1 +1,4 @@
-Code coming soon.
+- Make sure the GPU supported version of matConvNet is correctly installed.
+- Download testing LF image from the Stanford Lytro LF Archive http://lightfields.stanford.edu/LF2016.html, and put the testing image "eslf.png" into the folder "dataLF"
+- Currently only networks trained at three noise levels, i.e., 10, 20, and 50 are provided. Though noise levels of arbitrary value can be set for testing based on these networks (optimal performance not guaranteed)
+- Training code will be added soon.
